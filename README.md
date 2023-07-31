@@ -18,4 +18,4 @@ Log-In credentials are authorized by firebase and as you can see the card number
 ![My Image](images/BasketPage.jpeg)
 
 # Checkout/Payment Page
-![My Image](images/CheckoutPage.jpeg)
+![My Image](images/Checkout.jpeg)
