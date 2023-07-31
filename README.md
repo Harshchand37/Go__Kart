@@ -2,4 +2,4 @@
  React frontend,
  Firebase backend,
  Stripe payment functionality 
-![My Image](images/download (2).png)
+![My Image](images/Log-IN.jpeg)
