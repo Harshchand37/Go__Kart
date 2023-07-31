@@ -1,4 +1,4 @@
- This is my amazon clone called Go__Kart
+ This is my amazon clone.
  React frontend,
  Firebase backend,
  Stripe payment functionality 
